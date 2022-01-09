@@ -1,0 +1,14 @@
+.styledScreen {
+  height: 6.2rem;
+  width: 100%;
+  margin-bottom: 0.9rem;
+  padding: 0 0.9rem;
+  background-color: #4357692d;
+  border-radius: 0.9rem;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  color: white;
+  font-weight: bold;
+  box-sizing: border-box;
+}
