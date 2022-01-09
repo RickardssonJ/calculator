@@ -45,7 +45,6 @@ function App() {
         numTwo: Number(calc.numTwo + value)
       })
     }
-    console.log(calc)
   }
 
   const signClickHandler = (e) => {
@@ -80,8 +79,6 @@ function App() {
       res: resultNumber,
 
     })
-    console.log(calc.res)
-    console.log(calc)
   }
 
 
